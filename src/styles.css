@@ -17,10 +17,8 @@ body{
     transition: 0.5s ease-in-out;
     display: flex;
     justify-content: space-between;
-    line-height: 160%;
     align-items: stretch;
     font-family: 'Lora', serif;
-    
 }
 
 .nav:hover{
