@@ -19,10 +19,10 @@ function App() {
       <Navbar  />
         <div className="container">
           <Routes>
-            <Route path="/" element={<Home />} /> //each route has a path, which is the page it is going to, the element is the component
-            <Route path = "/contact" element = {<Contact />} />
-            <Route path = "/about" element = {<About />} />
-            <Route path = "/portfolio" element = {<Portfolio/>} />
+            <Route path="/Portfolio" element={<Home />} /> //each route has a path, which is the page it is going to, the element is the component
+            <Route path = "/Portfolio/contact" element = {<Contact />} />
+            <Route path = "/Portfolio/about" element = {<About />} />
+            <Route path = "/Portfolio/projects" element = {<Portfolio/>} />
           </Routes>
         </div>
         <Footer />
