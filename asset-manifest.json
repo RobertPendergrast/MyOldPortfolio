@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7bf127a.css",
-    "main.js": "/static/js/main.7c4e26f0.js",
-    "static/media/myNationalParks.png": "/static/media/myNationalParks.fc20f525748b13ebe3b1.png",
-    "static/media/halfdome.jpeg": "/static/media/halfdome.7eeb0d2f2e869d858a6d.jpeg",
-    "static/media/Hike.jpeg": "/static/media/Hike.1b17f2900b83024e276e.jpeg",
-    "static/media/EpicPicture.png": "/static/media/EpicPicture.d60b660237dbc60053a4.png",
-    "static/media/satellite.png": "/static/media/satellite.3d3192778e457d6ee9d3.png",
-    "static/media/stars.jpeg": "/static/media/stars.8f967ff45e9c0b781cce.jpeg",
-    "static/media/ws.jpeg": "/static/media/ws.ae997a720235b3b54500.jpeg",
-    "static/media/code.png": "/static/media/code.34b61befc936f05179d7.png",
-    "static/media/videoGame.png": "/static/media/videoGame.bd1c518930f4f84f3e80.png",
-    "static/media/Screenshot_20230111_102755.png": "/static/media/Screenshot_20230111_102755.e9f46b57d62459aed9ad.png",
-    "static/media/webb-dark.png": "/static/media/webb-dark.cc0e3dfa444c3c6e95f9.png",
-    "index.html": "/index.html",
-    "main.c7bf127a.css.map": "/static/css/main.c7bf127a.css.map",
-    "main.7c4e26f0.js.map": "/static/js/main.7c4e26f0.js.map"
+    "main.css": "/Portfolio/static/css/main.85f01641.css",
+    "main.js": "/Portfolio/static/js/main.c65955cf.js",
+    "static/media/myNationalParks.png": "/Portfolio/static/media/myNationalParks.fc20f525748b13ebe3b1.png",
+    "static/media/halfdome.jpeg": "/Portfolio/static/media/halfdome.7eeb0d2f2e869d858a6d.jpeg",
+    "static/media/Hike.jpeg": "/Portfolio/static/media/Hike.1b17f2900b83024e276e.jpeg",
+    "static/media/EpicPicture.png": "/Portfolio/static/media/EpicPicture.d60b660237dbc60053a4.png",
+    "static/media/satellite.png": "/Portfolio/static/media/satellite.3d3192778e457d6ee9d3.png",
+    "static/media/stars.jpeg": "/Portfolio/static/media/stars.8f967ff45e9c0b781cce.jpeg",
+    "static/media/ws.jpeg": "/Portfolio/static/media/ws.ae997a720235b3b54500.jpeg",
+    "static/media/code.png": "/Portfolio/static/media/code.34b61befc936f05179d7.png",
+    "static/media/videoGame.png": "/Portfolio/static/media/videoGame.bd1c518930f4f84f3e80.png",
+    "static/media/Screenshot_20230111_102755.png": "/Portfolio/static/media/Screenshot_20230111_102755.e9f46b57d62459aed9ad.png",
+    "static/media/webb-dark.png": "/Portfolio/static/media/webb-dark.cc0e3dfa444c3c6e95f9.png",
+    "index.html": "/Portfolio/index.html",
+    "main.85f01641.css.map": "/Portfolio/static/css/main.85f01641.css.map",
+    "main.c65955cf.js.map": "/Portfolio/static/js/main.c65955cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7bf127a.css",
-    "static/js/main.7c4e26f0.js"
+    "static/css/main.85f01641.css",
+    "static/js/main.c65955cf.js"
   ]
 }
