@@ -6,7 +6,7 @@ import './index.css';
 import App from './App';
 import "./styles.css";
 import "./pages/styles.css";
-import {HashRouter} from "react-router-dom"; //you want to wrap your entire application in the browser router
+import {BrowserRouter} from "react-router-dom"; //you want to wrap your entire application in the browser router
 import AOS from 'aos';
 
 AOS.init();
@@ -14,9 +14,9 @@ AOS.init();
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <HashRouter>
+    <BrowserRouter>
       <App />
-    </HashRouter>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
