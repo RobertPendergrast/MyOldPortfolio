@@ -17,14 +17,8 @@ export default function  Nabvar(){
                 <a href ="/about"  className="links" id="aboutLink">about.</a>
             </li>
             <li>
-                <a href ="/projects" className = "links" id="portfolioLink">projects.</a>
+                <a href ="/portfolio" className = "links" id="portfolioLink">projects.</a>
             </li>
-            {/*
-            <li>
-                <a href = "/contact" className = "links" id="contactLink">contact.</a>
-            </li> */}
-            
-
             
         </ul>
     </nav>
