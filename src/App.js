@@ -22,7 +22,7 @@ function App() {
             <Route path="/" element={<Home />} /> //each route has a path, which is the page it is going to, the element is the component
             <Route path = "/contact" element = {<Contact />} />
             <Route path = "/about" element = {<About />} />
-            <Route path = "/projects" element = {<Portfolio/>} />
+            <Route path = "/Portfolio/projects" element = {<Portfolio/>} />
             <Route path = "/Portfolio" element = {<Home />}/>
           </Routes>
         </div>
