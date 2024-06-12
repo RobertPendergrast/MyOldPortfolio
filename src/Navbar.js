@@ -11,13 +11,13 @@ export default function  Nabvar(){
     }, []);
 
     return <nav data-aos="fade-down" className="nav">
-        <a href="/Portfolio" className = "site-title">robert.</a>
+        <a href="/" className = "site-title">robert.</a>
         <ul>
             <li>
-                <a href ="/Portfolio/about"  className="links" id="aboutLink">about.</a>
+                <a href ="/about"  className="links" id="aboutLink">about.</a>
             </li>
             <li>
-                <a href ="/Portfolio/projects" className = "links" id="portfolioLink">projects.</a>
+                <a href ="/projects" className = "links" id="portfolioLink">projects.</a>
             </li>
             {/*
             <li>
